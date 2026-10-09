@@ -2,7 +2,7 @@
 
 Short-Duration High-Intensity (SDHI) Precipitation from a Convection-Permitting Regional Climate Model (CP-RCM)
 
-> **Status (January 2026):** Data and scripts are preliminary and under peer review, provided for reviewers. Use with caution; they may change.
+> **Status (October 2026):** Data and scripts have underwent peer review. Please use care when executing large batch jobs. 
 
 **Please cite:** Gensini, V. A., A. M. Haberlie, and W. S. Ashley, 2023: Convection-permitting simulations of historical and possible future climate over the contiguous United States. _Climate Dynamics_, 60, 109–126.
 
